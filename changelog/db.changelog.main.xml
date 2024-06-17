@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd
+        http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
+
+    <!--This will only include the changeset files specified from the nextdeployment folder-->
+    <!--<include file="/changelog/releases/nextdeployment/db.changelog-1.0.0.xml" />-->
+    <include file="../changelog/releases/nextdeployment/db.changelog.nextrelease-titus-test-changes-from-local.xml" />
+
+    <!--This below is to include all the changesets from the nextdeployment folder-->
+    <!--<includeAll path="data/changelog/releases/nextdeployment/" />-->
+
+</databaseChangeLog>
