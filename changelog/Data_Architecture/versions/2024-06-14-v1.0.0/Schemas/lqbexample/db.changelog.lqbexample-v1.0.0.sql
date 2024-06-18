@@ -1,6 +1,6 @@
 -- DROP SCHEMA lqbexample;
 
-CREATE SCHEMA lqbexample AUTHORIZATION postgres;
+--CREATE SCHEMA lqbexample AUTHORIZATION postgres;
 -- lqbexample.tbl_acct_loc definition
 
 -- Drop table
