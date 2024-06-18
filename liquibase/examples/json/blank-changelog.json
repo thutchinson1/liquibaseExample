@@ -1,18 +1,3 @@
-{ "databaseChangeLog": [
-  "changeset": {
-     "id": "1",
-     "author": "your.name",
-     "changes": [
-        {
-        }
-     ]
-  },
-  "changeset": {
-     "id": "2",
-     "author": "your.name",
-     "changes": [
-        {
-        }
-     ]
-  }
-]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:025bbdea095cdabdb79f766057572a2e953ca1ebea7ce68ff22e672813ca11ff
+size 249

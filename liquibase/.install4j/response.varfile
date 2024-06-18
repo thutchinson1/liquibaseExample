@@ -1,6 +1,3 @@
-# install4j response file for Liquibase 4.27.0
-liquibase.addToPath$Boolean=true
-liquibase.openInstallDirectory$Boolean=true
-sys.adminRights$Boolean=true
-sys.installationDir=C\:\\Program Files\\liquibase
-sys.languageId=en
+version https://git-lfs.github.com/spec/v1
+oid sha256:e23bebd57d607438ee6131a689a4eb77c8f12944538ada7b21f736cb153027f6
+size 227

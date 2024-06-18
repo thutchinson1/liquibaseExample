@@ -1,14 +1,3 @@
-## This is a Liquibase checks packages formatted yaml file.
-## It contains just one or more 'checksPackages' objects
-## with one or more named checks-settings-files.
-## These checks-settings-files listed in a package are processed sequentially
-## during 'liquibase checks run' or 'liquibase checks show' commands
-## which specify this file as the checks-settings-file property.
-## Learn more at https://docs.liquibase.com/quality-checks
-
-## Uncomment and change names with your checks-settings-files
-#checksPackages:
-#  - name: "my-checks-files.pkg"
-#    files:
-#      - "./liquibase.checks-settings.conf"
-#      - "./liquibase.more.checks-settings.yaml"
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3ddd83153c919dd66415445824f5c3f0e4cc3f0c611323771b0a81e264c0bf4
+size 654

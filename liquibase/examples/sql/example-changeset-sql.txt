@@ -1,7 +1,3 @@
-(example-changeset-sql.txt)
-
---changeset dev:1
-create table test1(
-    id int primary key,
-    name varchar(255)
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:08a763f658346dc770dbfe3da6a889b724ee6d3e29533fc38d6a8c68673aeaa7
+size 116

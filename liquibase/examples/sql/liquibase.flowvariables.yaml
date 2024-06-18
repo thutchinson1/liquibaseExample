@@ -1,8 +1,3 @@
-##########           LIQUIBASE FLOWFILE                ##########
-##########  learn more http://docs.liquibase.com/flow  ##########
-
-## NOTE: This example yaml file of key:value variables is injected into examples/liquibase.advanced.flow file
-## using the "include" ability. It will be given the namespace "DATES" but could be given any namespace.
-
-PROJNAME: "MyFlowProj"
-THISDATE: "2022-11-28T15-00-20"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8cdbbb2330a42770143fb348240372c89af4dc7148089d024434d445961eb26
+size 403

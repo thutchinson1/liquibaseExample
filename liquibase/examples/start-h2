@@ -1,16 +1,3 @@
-#!/usr/bin/env bash
-
-if [ -z "${LIQUIBASE_HOME}" ]; then
-  #liquibase home is not set
-
-  LIQUIBASE_PATH="$(which liquibase)"
-
-  if [ -z "${LIQUIBASE_PATH}" ]; then
-    echo "Must set LIQUIBASE_HOME environment variable, or have liquibase in your PATH"
-    exit 1
-  fi
-
-  LIQUIBASE_HOME=$(dirname "$(which liquibase)")
-fi
-
-"${LIQUIBASE_HOME}/liquibase" init start-h2
+version https://git-lfs.github.com/spec/v1
+oid sha256:487e7d3a200bde8b8c53110ee9fbb227c10ae8ff0e86e4cfbc7acf3bb5621232
+size 366

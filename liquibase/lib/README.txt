@@ -1,6 +1,3 @@
-## Global Library Directory
-
-This directory contains the global library files managed by the end user. Jar files in this directory are automatically added to all Liquibase CLI runs.
-Any jar files you would like to include in only certain projects can be added to a `liquibase_libs` directory in your current working directory.
-
-The libraries which ship with Liquibase can be found in the `LIQUIBASE_HOME/internal/lib` directory.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b096501ce6787a42d3505e228e45529222cb1b7df88dd3020362a609c64ed4f
+size 429
