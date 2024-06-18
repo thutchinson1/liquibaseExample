@@ -9,6 +9,7 @@ in this example file.
 1. docker cli
 2. Postgresql
 3. Java
+4. Liquibase is built into the project and does not need to be installed separately
 
 # Getting Started
 Double click the click_to_build.bat file. This will stand up the database in a docker container locally at localhost:5432
